@@ -2,6 +2,7 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 
 
+
 const app = firebase.initializeApp({
     apiKey: "AIzaSyAxFG_fihAq5ts-96OODNmI-gTxQ3SudB4",
     authDomain: "sweet-shop123.firebaseapp.com",
